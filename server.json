@@ -1,0 +1,52 @@
+{
+  "transactions": [
+    {
+      "id": 1,
+      "description": "Desenvolvimento de site",
+      "type": "income",
+      "category": "Venda",
+      "price": 14000,
+      "createdAt": "2024-01-07T13:14:12.909Z"
+    },
+    {
+      "id": 2,
+      "description": "Calzone ifood",
+      "type": "outcome",
+      "category": "Alimentação",
+      "price": 53,
+      "createdAt": "2024-01-05T20:19:12.909Z"
+    },
+    {
+      "id": 3,
+      "description": "Mercado Livre - Fone de ouvido in ear",
+      "type": "outcome",
+      "category": "Compra",
+      "price": 49.9,
+      "createdAt": "2024-01-05T20:19:12.909Z"
+    },
+    {
+      "id": 4,
+      "description": "Conta MIR4 Rogue",
+      "type": "income",
+      "category": "Venda",
+      "price": 325,
+      "createdAt": "2024-01-05T20:19:12.909Z"
+    },
+    {
+      "description": "Desenvolvimento de app",
+      "price": 22000,
+      "category": "Venda",
+      "type": "income",
+      "createdAt": "2024-01-07T19:46:27.699Z",
+      "id": 5
+    },
+    {
+      "description": "Sorvete",
+      "price": 8,
+      "category": "Alimentação",
+      "type": "outcome",
+      "createdAt": "2024-01-07T20:00:26.298Z",
+      "id": 6
+    }
+  ]
+}
